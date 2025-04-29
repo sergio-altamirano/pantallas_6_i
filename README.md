@@ -1,22 +1,23 @@
 # act5_rutas_6_i
 
 - pantalla 1
-- ![image](https://github.com/user-attachments/assets/4f833992-2ed1-494a-a53d-dba8061170e8)
+- ![image](https://github.com/user-attachments/assets/764bb471-9089-4c5a-b8ea-8b9cceed094e)
 
 - pantalla 2
-- ![image](https://github.com/user-attachments/assets/8f7a1197-9319-4e93-9827-5cf7dc0d83ef)
+- ![image](https://github.com/user-attachments/assets/5767e029-39a3-4cc6-801e-0c08de027a56)
 
 - pantalla 3
-- ![image](https://github.com/user-attachments/assets/306c4fef-b786-439d-8c20-14accde75773)
+- ![image](https://github.com/user-attachments/assets/963de29b-2406-4918-b482-94e8fd7361f4)
 
 - pantalla 4
-- ![image](https://github.com/user-attachments/assets/3627d9df-b2b6-479e-a66a-961f92618cc7)}
+- ![image](https://github.com/user-attachments/assets/cc4db7c4-a9e7-4c79-995c-2c9fac628f56)
 
 - pantalla 5
-- ![image](https://github.com/user-attachments/assets/0d8fbce6-67d9-4c38-9125-f2c657934c50)
+- ![image](https://github.com/user-attachments/assets/1086eff5-2ba2-4a8b-be62-2ec475ad1038)
 
 - pantalla 6
-- ![image](https://github.com/user-attachments/assets/d0d3af25-aa2a-48a7-ae0d-722f15dbf456)
+- ![image](https://github.com/user-attachments/assets/25458b7b-f237-4424-80a8-df71c26988fb)
+
 
 
 
